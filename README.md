@@ -54,9 +54,22 @@ Open to Bengaluru & Pune locations
 
 ---
 
+## 🖼️ Screenshots Preview
+
+### ✅ Test Scenarios Sheet
+![Test Scenarios](Screenshots-TestScenarios.png)
+
+### ✅ Test Cases Sheet
+![Test Cases](Screenshots-TestCases.png)
+
+### ✅ Test Plan (Preview)
+![Test Plan](Screenshots-TestPlan.png)
+
+---
+
 ## 📬 Contact
+
 📧 Email: mdsammed07@gmail.com  
 📱 Mobile: 9380660527  
-📍 Location: Belagavi, Karnataka
-9380660527  
+🔗 LinkedIn: [linkedin.com/in/sammedmudeppagol](https://www.linkedin.com/in/sammedmudeppagol)
 📍 Location: Belagavi, Karnataka
