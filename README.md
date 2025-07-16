@@ -71,5 +71,5 @@ Open to Bengaluru & Pune locations
 
 📧 Email: mdsammed07@gmail.com  
 📱 Mobile: 9380660527  
-🔗 LinkedIn: [linkedin.com/in/sammedmudeppagol](https://www.linkedin.com/in/sammedmudeppagol)
+🔗 LinkedIn: https://www.linkedin.com/in/sammed-mudeppagol-341248347/
 📍 Location: Belagavi, Karnataka
